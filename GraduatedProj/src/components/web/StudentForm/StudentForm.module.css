@@ -1,0 +1,87 @@
+.student_form_container {
+  width: 100%;
+  max-width: 500px;
+  margin: 10vh auto;
+  padding: 20px;
+}
+
+/* .formDesign {
+
+  background: rgba(255, 255, 255, 0.1);
+  padding: 30px;
+  border-radius: 15px;
+  backdrop-filter: blur(25px);
+  width: 424px;
+
+  box-shadow: 0px 0px 20px #bedac0;
+  z-index: 4;
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+.form_title {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #456e5c;
+} */
+
+/* .form_inputs input {
+  color: #254336;
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  transition: border-color 0.3s ease;
+} */
+
+/* .student_form_container .formDesign .form .button {
+  font-weight: bold;
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 15px;
+  background-color: #254336;
+  color: #dad3be;
+  font-size: 16px;
+  margin-top: 20px;
+  transition: background-color 0.4s ease-in-out;
+}
+.student_form_container .formDesign .form .button:hover:enabled {
+  background-color: #25433669;
+  color: #254336;
+  cursor: pointer;
+}
+.student_form_container .formDesign .form .button:disabled {
+  background-color: #dad3be17;
+  color: #dad3be60;
+} */
+
+/* button[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #254336;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #476658;
+}
+
+button[type="submit"]:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+} */
+
+/* .error {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}  */
