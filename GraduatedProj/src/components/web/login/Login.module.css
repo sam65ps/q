@@ -1,8 +1,0 @@
-.login_container {
-  background: url(../img/Login.png) no-repeat center center/cover;
-  background-position-y: -51px;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
